@@ -1,0 +1,15 @@
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.csproj.AssemblyReference.cache
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.AssemblyInfoInputs.cache
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.AssemblyInfo.cs
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.csproj.CoreCompileInputs.cache
+F:\c#\Third Largest Number\Third Largest Number\bin\Debug\net6.0\Third Largest Number.exe
+F:\c#\Third Largest Number\Third Largest Number\bin\Debug\net6.0\Third Largest Number.deps.json
+F:\c#\Third Largest Number\Third Largest Number\bin\Debug\net6.0\Third Largest Number.runtimeconfig.json
+F:\c#\Third Largest Number\Third Largest Number\bin\Debug\net6.0\Third Largest Number.dll
+F:\c#\Third Largest Number\Third Largest Number\bin\Debug\net6.0\Third Largest Number.pdb
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.dll
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\refint\Third Largest Number.dll
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.pdb
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\Third Largest Number.genruntimeconfig.cache
+F:\c#\Third Largest Number\Third Largest Number\obj\Debug\net6.0\ref\Third Largest Number.dll
